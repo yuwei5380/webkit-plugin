@@ -1,0 +1,75 @@
+# Microsoft Developer Studio Generated Dependency File, included by npapi.mak
+
+.\np_entry.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	".\StdAfx.h"\
+	"d:\work\gecko-sdk\include\jni.h"\
+	"d:\work\gecko-sdk\include\jni_md.h"\
+	"d:\work\gecko-sdk\include\jri.h"\
+	"d:\work\gecko-sdk\include\jri_md.h"\
+	"d:\work\gecko-sdk\include\jritypes.h"\
+	"d:\work\gecko-sdk\include\npapi.h"\
+	"d:\work\gecko-sdk\include\npruntime.h"\
+	"d:\work\gecko-sdk\include\nptypes.h"\
+	"d:\work\gecko-sdk\include\npupp.h"\
+	"d:\work\gecko-sdk\include\obsolete\protypes.h"\
+	"d:\work\gecko-sdk\include\prcpucfg.h"\
+	"d:\work\gecko-sdk\include\prtypes.h"\
+	
+
+.\npapi.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	".\StdAfx.h"\
+	
+
+.\npn_gate.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	".\StdAfx.h"\
+	"d:\work\gecko-sdk\include\jni.h"\
+	"d:\work\gecko-sdk\include\jni_md.h"\
+	"d:\work\gecko-sdk\include\jri.h"\
+	"d:\work\gecko-sdk\include\jri_md.h"\
+	"d:\work\gecko-sdk\include\jritypes.h"\
+	"d:\work\gecko-sdk\include\npapi.h"\
+	"d:\work\gecko-sdk\include\npruntime.h"\
+	"d:\work\gecko-sdk\include\nptypes.h"\
+	"d:\work\gecko-sdk\include\npupp.h"\
+	"d:\work\gecko-sdk\include\obsolete\protypes.h"\
+	"d:\work\gecko-sdk\include\prcpucfg.h"\
+	"d:\work\gecko-sdk\include\prtypes.h"\
+	
+
+.\npp_gate.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	".\plugin.h"\
+	".\StdAfx.h"\
+	"d:\work\gecko-sdk\include\npapi.h"\
+	"d:\work\gecko-sdk\include\npruntime.h"\
+	"d:\work\gecko-sdk\include\nptypes.h"\
+	"d:\work\gecko-sdk\include\obsolete\protypes.h"\
+	"d:\work\gecko-sdk\include\prcpucfg.h"\
+	"d:\work\gecko-sdk\include\prtypes.h"\
+	
+
+.\plugin.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	".\plugin.h"\
+	".\StdAfx.h"\
+	"d:\work\gecko-sdk\include\jni.h"\
+	"d:\work\gecko-sdk\include\jni_md.h"\
+	"d:\work\gecko-sdk\include\jri.h"\
+	"d:\work\gecko-sdk\include\jri_md.h"\
+	"d:\work\gecko-sdk\include\jritypes.h"\
+	"d:\work\gecko-sdk\include\npapi.h"\
+	"d:\work\gecko-sdk\include\npruntime.h"\
+	"d:\work\gecko-sdk\include\nptypes.h"\
+	"d:\work\gecko-sdk\include\npupp.h"\
+	"d:\work\gecko-sdk\include\obsolete\protypes.h"\
+	"d:\work\gecko-sdk\include\prcpucfg.h"\
+	"d:\work\gecko-sdk\include\prtypes.h"\
+	
+
+.\StdAfx.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	".\StdAfx.h"\
+	
