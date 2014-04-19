@@ -1,0 +1,40 @@
+<HTML>
+	
+
+<script>
+function TestFile1()
+{ 
+  var st1=document.form1.textmsg.value;
+  var strVal = embed1.write2file(st1+"\n");
+  alert(strVal);
+}
+</script>
+
+
+<BODY>
+
+
+<embed type="application/mozilla-npruntime-scriptable-plugin" id="pluginId">
+<script>
+  var embed1 = document.getElementById('pluginId');
+</script>
+
+
+<form name="form1" method="post">
+<center>
+	<br>
+  <p class="STYLE3">Firefox</p>
+  <p>---------------------------------------------------------------------------------------------------------------</p>
+	<br>
+	<br>
+	<br> 
+	<input name="button" type=button onClick='TestFile1()' value="writefile()">writefile
+	<input type="text" name="textmsg" id="textmsg" value="yes, this is a test for plugins !\n" />
+
+	<br>
+	<br>
+	<br> 
+	<br> 
+
+</BODY>
+</HTML>
